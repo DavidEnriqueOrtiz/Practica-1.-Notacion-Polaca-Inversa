@@ -1,3 +1,7 @@
+#Integrantes del equipo
+#Ortiz Gonzalez David Enrique
+#Rivera Paz Valeria
+#Vasquez Hernandez Griselda
 def funcion_polaca(expresion):
     jerarquia_operaciones = {'+': 1, '-': 1, '*': 2, '/': 2, '**': 3}  # Prioridad de operadores
     operadores = []
